@@ -1,0 +1,70 @@
+.heading{
+    color: red;
+    font-weight: 900;
+    
+}
+
+/* .line{ */
+    /* box-lines: ; */
+/* } */
+.ordered{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.link{
+    text-decoration: underline;
+    color: brown;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.class1{
+    text-decoration: none;
+    width: 8%;
+    /* border:2px solid red; */
+    background-color: yellow;
+    font-style: italic;
+    
+    
+    
+}
+.unordered{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading2{
+    color: orangered;
+    font-style: italic;
+}
+.paragraph{
+    color: darkgoldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+.button{
+    color: darkblue;
+}
+#a{
+    background-color: yellow;
+}
+/* .class2{ */
+    /* width: 110px; */
+    /* background-color: yellow; */
+    /* border:2px solid red; */
+/* } */
+/* .parent{ */co
+    /* width: 150px; */
+    /* border:2p solid red; */
+    /* font-size: 50px; */
+/* } */
+
+
+
+
+
+
